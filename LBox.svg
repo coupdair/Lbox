@@ -37,13 +37,13 @@
      inkscape:window-height="1106"
      id="namedview488"
      showgrid="false"
-     inkscape:zoom="0.3278776"
-     inkscape:cx="1602.3066"
-     inkscape:cy="183.161"
+     inkscape:zoom="0.6557552"
+     inkscape:cx="806.8738"
+     inkscape:cy="-453.18786"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer2"
      inkscape:document-units="mm"
      units="mm" />
   <title
@@ -177,7 +177,7 @@
          style="fill:none" />
     </g>
     <g
-       transform="matrix(2.27315,0,0,2.27315,-1621.4985,-78.7517)"
+       transform="matrix(2.27315,0,0,2.27315,-1621.4985,-76.7517)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -241,6 +241,17 @@
          id="polyline4248"
          style="fill:none" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="93.022514"
+       y="1198.1304"
+       id="text7488"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7490"
+         x="93.022514"
+         y="1198.1304">8017</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -248,7 +259,7 @@
      inkscape:label="door"
      style="display:inline">
     <g
-       transform="matrix(-2.27315,0,0,-2.27315,3628.9402,3321.885)"
+       transform="matrix(-2.27315,0,0,-2.27315,2692.9402,3315.885)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -261,7 +272,7 @@
          style="fill:none" />
     </g>
     <g
-       transform="matrix(-2.27315,0,0,-2.27315,3628.9402,3321.885)"
+       transform="matrix(-2.27315,0,0,-2.27315,2692.9402,3315.885)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -274,7 +285,7 @@
          style="fill:none" />
     </g>
     <g
-       transform="matrix(-2.27315,0,0,-2.27315,3628.9402,3321.885)"
+       transform="matrix(-2.27315,0,0,-2.27315,2692.9402,3315.885)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -287,7 +298,7 @@
          style="fill:none" />
     </g>
     <g
-       transform="matrix(-2.27315,0,0,-2.27315,3628.9402,3321.885)"
+       transform="matrix(-2.27315,0,0,-2.27315,2692.9402,3315.885)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -299,6 +310,17 @@
          id="polyline4640"
          style="fill:none" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="363.73901"
+       y="1658.6056"
+       id="text7484"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7486"
+         x="363.73901"
+         y="1658.6056">DarthVader TIE fighter door</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
