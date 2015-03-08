@@ -37,13 +37,13 @@
      inkscape:window-height="1106"
      id="namedview488"
      showgrid="false"
-     inkscape:zoom="0.3278776"
-     inkscape:cx="1437.7695"
-     inkscape:cy="969.9421"
+     inkscape:zoom="0.92737789"
+     inkscape:cx="595.39443"
+     inkscape:cy="629.70068"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="layer4"
      inkscape:document-units="mm"
      units="mm" />
   <title
@@ -354,16 +354,6 @@
        sodipodi:ry="18.331255"
        d="m 556.40749,717.31848 a 19.409563,18.331255 0 1 1 -38.81913,0 19.409563,18.331255 0 1 1 38.81913,0 z"
        transform="matrix(1.0461969,0,0,1.1077379,-24.921516,-68.542043)" />
-    <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:#0000ff;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path7719"
-       sodipodi:cx="545.08527"
-       sodipodi:cy="732.41479"
-       sodipodi:rx="18.870409"
-       sodipodi:ry="20.487873"
-       d="m 563.95568,732.41479 a 18.870409,20.487873 0 1 1 -37.74082,0 18.870409,20.487873 0 1 1 37.74082,0 z"
-       transform="matrix(1.0780553,0,0,0.9929456,-50.747939,-1.1892538)" />
   </g>
   <g
      inkscape:groupmode="layer"
