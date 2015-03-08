@@ -390,16 +390,21 @@
    <Parent id="136"/>
    <Parent id="10"/>
   </Object>
-  <Object type="ConicLineIntersection" id="138">
+  <Object type="ArcBTP" id="138">
+   <Parent id="108"/>
+   <Parent id="137"/>
+   <Parent id="110"/>
+  </Object>
+  <Object type="ConicLineIntersection" id="139">
    <Parent id="114"/>
    <Parent id="136"/>
    <Parent id="4"/>
   </Object>
-  <Data type="int" id="139">1</Data>
-  <Object type="ConicLineIntersection" id="140">
+  <Data type="int" id="140">1</Data>
+  <Object type="ConicLineIntersection" id="141">
    <Parent id="74"/>
    <Parent id="89"/>
-   <Parent id="139"/>
+   <Parent id="140"/>
   </Object>
  </Hierarchy>
  <View>
@@ -415,9 +420,9 @@
   <Draw width="-1" namecalcer="29" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="79"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="96"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="82"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="138"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="139"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Sans,10,-1,5,50,0,0,0,0,0" object="108"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="136"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="136"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="101"/>
   <Draw width="-1" namecalcer="62" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Sans,10,-1,5,50,0,0,0,0,0" object="46"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="129"/>
@@ -428,7 +433,7 @@
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="95"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="115"/>
   <Draw width="-1" namecalcer="8" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Sans,10,-1,5,50,0,0,0,0,0" object="43"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="113"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="113"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="132"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="124"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="104"/>
@@ -438,19 +443,20 @@
   <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="74"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="81"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="77"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="114"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="114"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="126"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="90"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="117"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="107"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="112"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="112"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="63"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="84"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="DashDotLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="87"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="135"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="103"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="105"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="140"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="138"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="141"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="118"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Sans,10,-1,5,50,0,0,0,0,0" object="99"/>
   <Draw width="-1" namecalcer="2" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Sans,10,-1,5,50,0,0,0,0,0" object="93"/>
