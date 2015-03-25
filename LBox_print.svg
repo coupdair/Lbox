@@ -40,11 +40,11 @@
      showgrid="false"
      inkscape:zoom="0.3278776"
      inkscape:cx="1211.4958"
-     inkscape:cy="543.43595"
+     inkscape:cy="665.4327"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer8"
      inkscape:document-units="mm"
      units="mm" />
   <title
@@ -259,7 +259,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="door"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,-28.346408)">
     <g
        transform="matrix(-2.27315,0,0,-2.27315,2532.9402,2275.885)"
@@ -355,7 +355,7 @@
        sodipodi:cy="717.31848"
        sodipodi:rx="19.409563"
        sodipodi:ry="18.331255"
-       d="m 556.40749,717.31848 c 0,10.12407 -8.68996,18.33126 -19.40957,18.33126 -10.7196,0 -19.40956,-8.20719 -19.40956,-18.33126 0,-10.12407 8.68996,-18.33125 19.40956,-18.33125 10.71961,0 19.40957,8.20718 19.40957,18.33125 z"
+       d="m 556.40749,717.31848 a 19.409563,18.331255 0 1 1 -38.81913,0 19.409563,18.331255 0 1 1 38.81913,0 z"
        transform="matrix(1.0461969,0,0,1.1077379,-24.921516,-68.542043)" />
     <g
        transform="matrix(0.25,0,0,0.25,499.956,751.3376)"
@@ -571,7 +571,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="back_door"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,-28.346408)">
     <g
        transform="matrix(2.27315,0,0,2.27315,-1783.4985,-1156.7517)"
@@ -1085,7 +1085,7 @@
      style="display:inline"
      transform="translate(0,-28.346408)">
     <g
-       transform="matrix(2.27315,0,0,2.27315,73.3636,-1367.8841)"
+       transform="matrix(2.27315,0,0,2.27315,-1780.6364,-127.8841)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -1098,7 +1098,7 @@
          style="fill:none" />
     </g>
     <g
-       transform="matrix(2.27315,0,0,2.27315,73.3636,-1367.8841)"
+       transform="matrix(2.27315,0,0,2.27315,-1780.6364,-127.8841)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -1111,7 +1111,7 @@
          style="fill:none" />
     </g>
     <g
-       transform="matrix(2.27315,0,0,2.27315,73.3636,-1367.8841)"
+       transform="matrix(2.27315,0,0,2.27315,-1780.6364,-127.8841)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -1124,7 +1124,7 @@
          style="fill:none" />
     </g>
     <g
-       transform="matrix(2.27315,0,0,2.27315,73.3636,-1367.8841)"
+       transform="matrix(2.27315,0,0,2.27315,-1780.6364,-127.8841)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -1142,7 +1142,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(2.27315,0,0,2.27315,73.3636,-1375.1449)">
+       transform="matrix(2.27315,0,0,2.27315,-1780.6364,-135.1449)">
       <polyline
          style="fill:none;stroke:#000000;stroke-width:3.11753035;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          id="polyline7582"
@@ -1150,7 +1150,7 @@
          vector-effect="none" />
     </g>
     <g
-       transform="matrix(2.27315,0,0,2.27315,73.3636,-1396.4048)"
+       transform="matrix(2.27315,0,0,2.27315,-1780.6364,-156.4048)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -1163,7 +1163,7 @@
          style="fill:none;stroke:#000000;stroke-width:3.11753035;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(0,-0.2405142,2.27315,0,1114.1932,-467.49393)"
+       transform="matrix(0,-0.2405142,2.27315,0,-739.8068,772.50607)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -1181,7 +1181,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(0,-0.2405142,2.27315,0,1114.1932,-627.49393)">
+       transform="matrix(0,-0.2405142,2.27315,0,-739.8068,612.50607)">
       <polyline
          style="fill:none;stroke:#000000;stroke-width:19.16833496;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          id="polyline7598"
@@ -1194,7 +1194,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(0,-0.2405142,2.27315,0,1114.1932,-147.49393)">
+       transform="matrix(0,-0.2405142,2.27315,0,-739.8068,1092.5061)">
       <polyline
          style="fill:none;stroke:#000000;stroke-width:19.16833496;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          id="polyline7606"
@@ -1202,7 +1202,7 @@
          vector-effect="none" />
     </g>
     <g
-       transform="matrix(0,-0.2405142,2.27315,0,1114.1932,-307.49393)"
+       transform="matrix(0,-0.2405142,2.27315,0,-739.8068,932.50607)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -1215,7 +1215,7 @@
          style="fill:none;stroke:#000000;stroke-width:19.16833496;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(0,-0.2405142,2.27315,0,1114.1932,-787.49393)"
+       transform="matrix(0,-0.2405142,2.27315,0,-739.8068,452.50607)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -1228,7 +1228,7 @@
          style="fill:none;stroke:#000000;stroke-width:19.16833496;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(0,-2.0401738,2.2733164,0,1314.1118,1237.1216)"
+       transform="matrix(0,-2.0401738,2.2733164,0,-539.8882,2477.1216)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -1246,7 +1246,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(0,-2.0357296,2.27315,0,914.1932,1233.8041)">
+       transform="matrix(0,-2.0357296,2.27315,0,-939.8068,2473.8041)">
       <polyline
          style="fill:none;stroke:#000000;stroke-width:4.94146776;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          id="polyline7646"
@@ -1255,7 +1255,7 @@
     </g>
     <g
        id="g7616"
-       transform="matrix(0.125,0,0,0.125,2094.9842,-393.26224)"
+       transform="matrix(0.125,0,0,0.125,240.9842,846.73776)"
        style="display:inline">
       <g
          id="g7618"
@@ -1279,7 +1279,7 @@
     </g>
     <g
        style="display:inline"
-       transform="matrix(0.125,0,0,0.125,2294.9842,-393.26224)"
+       transform="matrix(0.125,0,0,0.125,440.9842,846.73776)"
        id="g7626">
       <g
          transform="translate(-141.42857,-10.93361)"
