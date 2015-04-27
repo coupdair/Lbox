@@ -37,9 +37,9 @@
      inkscape:window-height="1106"
      id="namedview616"
      showgrid="false"
-     inkscape:zoom="1.8547558"
-     inkscape:cx="836.19554"
-     inkscape:cy="777.21266"
+     inkscape:zoom="5.2460416"
+     inkscape:cx="334.15155"
+     inkscape:cy="499.01219"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
@@ -115,7 +115,8 @@
      id="g68"
      font-style="normal"
      font-weight="400"
-     font-size="10">
+     font-size="10"
+     transform="translate(-1.1437195,-0.76247966)">
     <path
        inkscape:connector-curvature="0"
        id="path70"
@@ -127,7 +128,8 @@
      id="g76"
      font-style="normal"
      font-weight="400"
-     font-size="10">
+     font-size="10"
+     transform="translate(0,-1.1437195)">
     <path
        inkscape:connector-curvature="0"
        id="path78"
@@ -355,7 +357,8 @@
      id="g288"
      font-style="normal"
      font-weight="400"
-     font-size="10">
+     font-size="10"
+     transform="translate(1.0783091,0)">
     <polyline
        style="fill:none"
        id="polyline290"
