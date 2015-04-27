@@ -37,13 +37,13 @@
      inkscape:window-height="1106"
      id="namedview1312"
      showgrid="false"
-     inkscape:zoom="1.3115104"
-     inkscape:cx="1085.6718"
-     inkscape:cy="449.08086"
+     inkscape:zoom="1.8547558"
+     inkscape:cx="1169.4991"
+     inkscape:cy="357.5833"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="layer7" />
   <title
      id="title4">Qt Svg Document</title>
   <desc
@@ -1370,7 +1370,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="translate(94,0)">
+       transform="translate(94.9531,0)">
       <polyline
          style="fill:none"
          id="polyline738"
@@ -1383,7 +1383,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="translate(94,0)">
+       transform="translate(94,0.76247966)">
       <polyline
          style="fill:none"
          id="polyline866"
@@ -1419,7 +1419,7 @@
          xml:space="preserve">front</text>
     </g>
     <g
-       transform="translate(-298,0)"
+       transform="translate(-297.0469,0)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -2084,7 +2084,8 @@
        id="g464"
        font-style="normal"
        font-weight="400"
-       font-size="10">
+       font-size="10"
+       transform="matrix(0.20826135,0,0,1,831.32558,0)">
       <polyline
          style="fill:none"
          id="polyline466"
@@ -2144,7 +2145,8 @@
        id="g400"
        font-style="normal"
        font-weight="400"
-       font-size="10">
+       font-size="10"
+       transform="translate(0.95309958,0)">
       <polyline
          style="fill:none"
          id="polyline402"
@@ -2157,7 +2159,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(0.06049512,0,0,1,808.9137,0)">
+       transform="matrix(0.0573183,0,0,1,811.64895,0)">
       <polyline
          style="fill:none"
          id="polyline830"
@@ -2201,7 +2203,7 @@
          vector-effect="none" />
     </g>
     <g
-       transform="matrix(0.0645949,0,0,1,936.33621,0)"
+       transform="matrix(0.0529424,0,0,1,948.44316,0)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -2211,6 +2213,110 @@
          vector-effect="none"
          points="1039,975 861,975 "
          id="polyline5708"
+         style="fill:none" />
+    </g>
+    <g
+       transform="translate(94,0)"
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g5746"
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;display:inline;font-family:Sans">
+      <path
+         vector-effect="none"
+         d="m 1276.58,976 c 42.77,-0.046 77.42,-34.726 77.42,-77.5 0,-0.028 0,-0.057 0,-0.085"
+         id="path5748"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(94,0)"
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g5750"
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;display:inline;font-family:Sans">
+      <path
+         vector-effect="none"
+         d="m 1354,832 c 0,-43.078 -34.7,-78 -77.5,-78"
+         id="path5752"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(94,0)"
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g5754"
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;display:inline;font-family:Sans">
+      <polyline
+         vector-effect="none"
+         points="1039,754 1276,754 "
+         id="polyline5756"
+         style="fill:none" />
+    </g>
+    <g
+       transform="translate(94,0)"
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g5758"
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;display:inline;font-family:Sans">
+      <path
+         vector-effect="none"
+         d="M 1039.5,754 C 996.698,754 962,788.922 962,832"
+         id="path5760"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(94,0)"
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g5762"
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;display:inline;font-family:Sans">
+      <path
+         vector-effect="none"
+         d="m 962,898.5 c 0,42.802 34.698,77.5 77.5,77.5"
+         id="path5764"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(94.9531,0)"
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g5766"
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;display:inline;font-family:Sans">
+      <polyline
+         vector-effect="none"
+         points="1353,898 1353,832 "
+         id="polyline5768"
+         style="fill:none" />
+    </g>
+    <g
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;display:inline;font-family:Sans"
+       id="g5774"
+       font-style="normal"
+       font-weight="400"
+       font-size="10"
+       transform="translate(-297.0469,0)">
+      <polyline
+         style="fill:none"
+         id="polyline5776"
+         points="1353,898 1353,832 "
+         vector-effect="none" />
+    </g>
+    <g
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g5858"
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Sans"
+       transform="matrix(0.20826135,0,0,1,1151.188,0)">
+      <polyline
+         vector-effect="none"
+         points="1050,975 1454,975 "
+         id="polyline5860"
          style="fill:none" />
     </g>
   </g>
