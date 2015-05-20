@@ -38,12 +38,12 @@
      id="namedview728"
      showgrid="false"
      inkscape:zoom="0.92737789"
-     inkscape:cx="485.76407"
-     inkscape:cy="513.37433"
+     inkscape:cx="2538.8646"
+     inkscape:cy="1538.8463"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="g60"
      inkscape:document-units="mm"
      units="mm" />
   <title
@@ -137,6 +137,107 @@
      font-size="10"
      transform="translate(0,1727.4224)" />
   <g
+     transform="translate(0,1491.7323)"
+     style="display:none"
+     inkscape:label="door copy"
+     id="g5571"
+     inkscape:groupmode="layer">
+    <g
+       transform="matrix(1.761293,0,0,1.761293,-274.11771,-223.27604)"
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g5577"
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans">
+      <path
+         style="stroke-width:0.02011765;stroke-miterlimit:4;stroke-dasharray:none"
+         vector-effect="none"
+         d="m 495,779 c 0,33.689 -27.311,61 -61,61 -33.689,0 -61,-27.311 -61,-61 0,-33.689 27.311,-61 61,-61 33.689,0 61,27.311 61,61"
+         id="path5579"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(1.761293,0,0,1.761293,-276.11771,-225.27604)"
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g5581"
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans">
+      <path
+         style="stroke-width:0.02011765;stroke-miterlimit:4;stroke-dasharray:none"
+         vector-effect="none"
+         d="M 662.019,938 C 671.399,937.99 679,930.383 679,921"
+         id="path5583"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(1.761293,0,0,1.761293,-274.11771,-223.27604)"
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g5585"
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans">
+      <polyline
+         vector-effect="none"
+         points="206,937 661,937 "
+         id="polyline5587"
+         style="fill:none;stroke-width:0.02011765;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       transform="matrix(1.761293,0,0,1.761293,-274.11771,-223.27604)"
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g5589"
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans">
+      <path
+         style="stroke-width:0.02011765;stroke-miterlimit:4;stroke-dasharray:none"
+         vector-effect="none"
+         d="m 190,919.86447 c 0,9.383 7.378,16.99 16.482,17"
+         id="path5591"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(1.761293,0,0,1.761293,-274.11771,-223.27604)"
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g5593"
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans">
+      <polyline
+         vector-effect="none"
+         points="190,921 190,478 "
+         id="polyline5595"
+         style="fill:none;stroke-width:0.02011765;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       transform="matrix(1.761293,0,0,1.761293,-274.11771,-223.27604)"
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g5597"
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans">
+      <polyline
+         vector-effect="none"
+         points="190,478 678,478 "
+         id="polyline5599"
+         style="fill:none;stroke-width:0.02011765;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       transform="matrix(1.761293,0,0,1.761293,-274.11771,-223.27604)"
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g5601"
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans">
+      <polyline
+         vector-effect="none"
+         points="678,921 678,478 "
+         id="polyline5603"
+         style="fill:none;stroke-width:0.02011765;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+  </g>
+  <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="door"
@@ -153,20 +254,6 @@
          inkscape:connector-curvature="0"
          id="path78"
          d="m 495,620 c 0,33.689 -27.311,61 -61,61 -33.689,0 -61,-27.311 -61,-61 0,-33.689 27.311,-61 61,-61 33.689,0 61,27.311 61,61"
-         vector-effect="none"
-         style="stroke-width:0.02011765;stroke-miterlimit:4;stroke-dasharray:none" />
-    </g>
-    <g
-       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans"
-       id="g128"
-       font-style="normal"
-       font-weight="400"
-       font-size="10"
-       transform="matrix(1.761293,0,0,1.761293,-274.11771,-223.27604)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path130"
-         d="m 495,779 c 0,33.689 -27.311,61 -61,61 -33.689,0 -61,-27.311 -61,-61 0,-33.689 27.311,-61 61,-61 33.689,0 61,27.311 61,61"
          vector-effect="none"
          style="stroke-width:0.02011765;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
@@ -420,11 +507,20 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer17"
+     inkscape:label="layout 1 (x2 copy)"
+     style="display:none" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="3mm"
+     style="display:none" />
+  <g
+     inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="top case"
      style="display:inline"
-     transform="translate(0,1491.7323)"
-     sodipodi:insensitive="true">
+     transform="translate(0,1491.7323)">
     <g
        style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans"
        id="g52"
@@ -485,15 +581,29 @@
        font-size="10"
        transform="matrix(1.761293,0,0,1.761293,611.88229,-271.27604)">
       <text
-         style="font-size:10px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
          id="text62"
          font-style="normal"
          font-weight="400"
          font-size="10"
          y="341"
          x="814"
-         xml:space="preserve">top case</text>
+         xml:space="preserve">&lt;  top and bottom,    top case  ^ ,    door spacer (mounting purpose only) v</text>
     </g>
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:0.03020662;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect5609"
+       width="862.67883"
+       height="21.164543"
+       x="2039.0648"
+       y="342.36673" />
+    <rect
+       y="366.36673"
+       x="2039.0648"
+       height="21.164543"
+       width="862.67883"
+       id="rect5611"
+       style="fill:none;stroke:#0000ff;stroke-width:0.03020662;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -667,6 +777,11 @@
          style="fill:none;stroke-width:0.02011765;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="layout 3"
+     style="display:none" />
   <g
      inkscape:groupmode="layer"
      id="layer10"
@@ -1703,4 +1818,15 @@
          style="fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="layout 4"
+     style="display:none" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="6 mm"
+     sodipodi:insensitive="true"
+     style="display:none" />
 </svg>
