@@ -37,13 +37,13 @@
      inkscape:window-height="1106"
      id="namedview728"
      showgrid="false"
-     inkscape:zoom="0.46368895"
-     inkscape:cx="2538.8646"
+     inkscape:zoom="7.4190232"
+     inkscape:cx="912.23537"
      inkscape:cy="934.99318"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g5616"
+     inkscape:current-layer="layer8"
      inkscape:document-units="mm"
      units="mm" />
   <title
@@ -138,7 +138,7 @@
      transform="translate(0,1727.4224)" />
   <g
      transform="translate(0,1491.7323)"
-     style="display:none"
+     style="display:inline"
      inkscape:label="door copy"
      id="g5571"
      inkscape:groupmode="layer"
@@ -344,16 +344,15 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="top guide"
-     style="display:none"
-     transform="translate(0,1491.7323)"
-     sodipodi:insensitive="true">
+     style="display:inline"
+     transform="translate(0,1491.7323)">
     <g
        style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans"
        id="g680"
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(1.761293,0,0,1.761293,-274.11771,-229.27604)">
+       transform="matrix(1.761293,0,0,1.761293,-276.11771,-229.14125)">
       <path
          inkscape:connector-curvature="0"
          id="path682"
@@ -420,7 +419,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(1.761293,0,0,0.05515813,585.88229,536.36236)">
+       transform="matrix(1.761293,0,0,0.04755844,585.07356,540.90012)">
       <polyline
          style="fill:none;stroke-width:0.11368109;stroke-miterlimit:4;stroke-dasharray:none"
          id="polyline5171"
@@ -428,7 +427,7 @@
          vector-effect="none" />
     </g>
     <g
-       transform="matrix(1.761293,0,0,1.761293,-274.11771,-285.27604)"
+       transform="matrix(1.761293,0,0,1.761293,-276.11771,-285.14125)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -495,7 +494,7 @@
          vector-effect="none" />
     </g>
     <g
-       transform="matrix(1.761293,0,0,0.05515813,585.88229,480.36236)"
+       transform="matrix(1.761293,0,0,0.04829176,585.07356,484.61236)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -521,7 +520,7 @@
      sodipodi:insensitive="true" />
   <g
      transform="translate(0,1491.7323)"
-     style="display:inline"
+     style="display:none"
      inkscape:label="sides"
      id="g5616"
      inkscape:groupmode="layer"
