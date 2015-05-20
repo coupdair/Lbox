@@ -37,13 +37,13 @@
      inkscape:window-height="1106"
      id="namedview728"
      showgrid="false"
-     inkscape:zoom="0.92737789"
+     inkscape:zoom="0.46368895"
      inkscape:cx="2538.8646"
-     inkscape:cy="1538.8463"
+     inkscape:cy="934.99318"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g60"
+     inkscape:current-layer="g5616"
      inkscape:document-units="mm"
      units="mm" />
   <title
@@ -141,7 +141,8 @@
      style="display:none"
      inkscape:label="door copy"
      id="g5571"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <g
        transform="matrix(1.761293,0,0,1.761293,-274.11771,-223.27604)"
        font-size="10"
@@ -241,8 +242,9 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="door"
-     style="display:inline"
-     transform="translate(0,1491.7323)">
+     style="display:none"
+     transform="translate(0,1491.7323)"
+     sodipodi:insensitive="true">
     <g
        style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans"
        id="g76"
@@ -342,8 +344,9 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="top guide"
-     style="display:inline"
-     transform="translate(0,1491.7323)">
+     style="display:none"
+     transform="translate(0,1491.7323)"
+     sodipodi:insensitive="true">
     <g
        style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans"
        id="g680"
@@ -514,13 +517,132 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="3mm"
+     style="display:none"
+     sodipodi:insensitive="true" />
+  <g
+     transform="translate(0,1491.7323)"
+     style="display:inline"
+     inkscape:label="sides"
+     id="g5616"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <g
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans"
+       id="g5618"
+       font-style="normal"
+       font-weight="400"
+       font-size="10"
+       transform="matrix(1.761293,0,0,1.761293,589.88229,-227.27604)">
+      <polyline
+         style="fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="polyline5620"
+         points="1300,449 1300,937 "
+         vector-effect="none" />
+    </g>
+    <g
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans"
+       id="g5622"
+       font-style="normal"
+       font-weight="400"
+       font-size="10"
+       transform="matrix(1.761293,0,0,1.761293,589.88229,-227.27604)">
+      <polyline
+         style="fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="polyline5624"
+         points="812,449 1300,449 "
+         vector-effect="none" />
+    </g>
+    <g
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans"
+       id="g5626"
+       font-style="normal"
+       font-weight="400"
+       font-size="10"
+       transform="matrix(1.761293,0,0,1.761293,589.88229,-227.27604)">
+      <polyline
+         style="fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="polyline5628"
+         points="812,937 812,449 "
+         vector-effect="none" />
+    </g>
+    <g
+       transform="matrix(1.761293,0,0,1.761293,589.88229,-227.27604)"
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g5630"
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans">
+      <polyline
+         vector-effect="none"
+         points="812,937 1300,937 "
+         id="polyline5632"
+         style="fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       transform="matrix(1.761293,0,0,1.761293,1453.8823,-227.27604)"
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g5634"
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans">
+      <polyline
+         vector-effect="none"
+         points="1300,449 1300,937 "
+         id="polyline5636"
+         style="fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       transform="matrix(1.761293,0,0,1.761293,1453.8823,-227.27604)"
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g5638"
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans">
+      <polyline
+         vector-effect="none"
+         points="812,449 1300,449 "
+         id="polyline5640"
+         style="fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       transform="matrix(1.761293,0,0,1.761293,1453.8823,-227.27604)"
+       font-size="10"
+       font-weight="400"
+       font-style="normal"
+       id="g5642"
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans">
+      <polyline
+         vector-effect="none"
+         points="812,937 812,449 "
+         id="polyline5644"
+         style="fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans"
+       id="g5646"
+       font-style="normal"
+       font-weight="400"
+       font-size="10"
+       transform="matrix(1.761293,0,0,1.761293,1453.8823,-227.27604)">
+      <polyline
+         style="fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="polyline5648"
+         points="812,937 1300,937 "
+         vector-effect="none" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer19"
+     inkscape:label="layout 2"
      style="display:none" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="top case"
-     style="display:inline"
-     transform="translate(0,1491.7323)">
+     style="display:none"
+     transform="translate(0,1491.7323)"
+     sodipodi:insensitive="true">
     <g
        style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.02011765;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Sans"
        id="g52"
@@ -609,7 +731,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="cut top and bottom"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,1491.7323)"
      sodipodi:insensitive="true">
     <g
@@ -721,7 +843,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="burn top and bottom"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,1491.7323)"
      sodipodi:insensitive="true">
     <g
