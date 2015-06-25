@@ -11,7 +11,7 @@
    height="1488.189"
    version="1.2"
    id="svg2"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="LBox.svg">
   <metadata
      id="metadata730">
@@ -33,17 +33,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="986"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
      id="namedview728"
      showgrid="false"
-     inkscape:zoom="0.3278776"
-     inkscape:cx="2043.5576"
-     inkscape:cy="1017.2555"
+     inkscape:zoom="0.6557552"
+     inkscape:cx="1633.3435"
+     inkscape:cy="1628.6049"
      inkscape:window-x="0"
-     inkscape:window-y="31"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer1"
      inkscape:document-units="mm"
      units="mm" />
   <title
@@ -787,15 +787,14 @@
      id="layer1"
      inkscape:label="cut top and bottom"
      style="display:inline"
-     transform="translate(0,1.3379983e-4)"
-     sodipodi:insensitive="true">
+     transform="translate(0,1.3379983e-4)">
     <g
        style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.20311482;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
        id="g308"
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(1.7612937,0,0,1.7278363,-274.11841,-215.46481)">
+       transform="matrix(1.7613115,0,0,1.6402503,-274.13717,-184.54242)">
       <polyline
          style="fill:none;stroke-width:0.20311482;stroke-miterlimit:4;stroke-dasharray:none"
          id="polyline310"
@@ -808,7 +807,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(1.7612937,0,0,1.7278363,-274.11841,-215.46481)">
+       transform="matrix(1.7613115,0,0,1.6402503,-274.13717,-184.54242)">
       <polyline
          style="fill:none;stroke-width:0.20311482;stroke-miterlimit:4;stroke-dasharray:none"
          id="polyline402"
@@ -821,7 +820,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(1.7612937,0,0,1.7278363,-274.11841,-215.46481)">
+       transform="matrix(1.7613115,0,0,1.6402503,-274.13717,-184.54242)">
       <polyline
          style="fill:none;stroke-width:0.20311482;stroke-miterlimit:4;stroke-dasharray:none"
          id="polyline442"
@@ -834,7 +833,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(1.7612937,0,0,1.7278363,-274.11841,-215.46481)">
+       transform="matrix(1.7613115,0,0,1.6402503,-274.13717,-184.54242)">
       <polyline
          style="fill:none;stroke-width:0.20311482;stroke-miterlimit:4;stroke-dasharray:none"
          id="polyline574"
